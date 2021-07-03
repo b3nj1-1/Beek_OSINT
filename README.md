@@ -3,7 +3,7 @@ It is a utility that brings together several tools to make osint to a certain ob
 
 The script is designed to be used in a simple way, just give it permission and execute it.
 
-```bash
+```sql
 [1] Technology
 [2] DNS Enum
 [3] Metadata
