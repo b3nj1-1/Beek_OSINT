@@ -4,26 +4,18 @@ It is a utility that brings together several tools to make osint to a certain ob
 The script is designed to be used in a simple way, just give it permission and execute it.
 
 ```python
+*-*-*-*-*-*-*-*-*-*-
 [1] Technology
-
 [2] DNS Enum
-
 [3] Metadata
-
 [4] People
-
 [5] Employees
-
 [6] Recon
-
-[7] Extra information
-
-[8] Honeypot
-
-[9] Exit
-
-Choose an option:
+[7] Delete All files
+[8] Exit
+Choose an option: 
 ```
+
 This menu allows you to choose and later everything is saved in a file to analyze it later.
 
 ## Dependencies
